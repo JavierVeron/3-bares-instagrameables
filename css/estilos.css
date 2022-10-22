@@ -8386,6 +8386,9 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important; } }
 
+body {
+  font-family: 'Belleza', sans-serif; }
+
 .fondo_menu {
   background-color: black; }
 
