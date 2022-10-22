@@ -1,0 +1,33 @@
+$primary:pink;
+$border-radius:0;
+
+@import "bootstrap";
+
+.fondo_menu {
+    background-color: black;
+}
+
+.logo {
+    width: 180px;
+}
+
+.logo_footer {
+    width: 90px;
+}
+
+.fondo_destacado {
+    background-image: url("../images/destacado.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+span {
+    display: block;
+    font-size: 11px;
+    color: black;
+    font-weight: bold;
+}
+
